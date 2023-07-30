@@ -1,5 +1,5 @@
 {
-"geo":"UA, ENG, RU, NL",
+"geo":"UA, ENG, RU, FR",
 "view":"https://chancesyours.com/stormof?",
 "appsChecker":"1"
 }
